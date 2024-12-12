@@ -1,6 +1,6 @@
 # Stable_Diffusion_Finetuning
 
-## Authors: Osama Ahmed, Aarya Desai, Katie Hucker 
+## Authors: Osama Ahmed (oaa34) , Aarya Desai (aad64), Katie Hucker (kh509)
 
 ## Introduction 
 This repository contains the notebooks and folders we used to train a baseline Stable Diffusion model and consequent finetuned models (using Textual Inversion and DreamBooth), alongside the analysis of the results of the survey that we used to evaluate the fine-tuning process. 
